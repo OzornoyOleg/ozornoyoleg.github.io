@@ -1,2 +1,2 @@
-# ozornoyoleg.github.io
+# Олег Петров
 Первый сайт
